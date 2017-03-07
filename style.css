@@ -1,0 +1,25 @@
+body {
+  background: #fff;
+  padding-top: 100px;
+}
+
+#bell {
+  color: white;
+  border-radius: 30px;
+  padding: 2px;
+  background-color: gray;
+}
+
+#bell:hover {
+  background-color: black;
+  color: white;
+}
+
+#search_form{
+  padding-bottom: 10px;
+}
+
+.navbar-fixed-top {
+  background-color: #fff;
+  border: none;
+}
